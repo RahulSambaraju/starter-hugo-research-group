@@ -1,14 +1,14 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
+title: New paper on negotiating race categories in discussions on CRT in US,
+  accepted in Journal of Social Issues
 date: 2020-12-01
 ---
+‘My mother did not have civil rights under the law’: race categories, past oppression, and negotiating positions on Critical Race Theory
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+Abstract
 
-<!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+What is the relevance of historic oppression of racial groups for contemporary rights and entitlements? In this paper, I examine how racial group membership is constructed and oriented to as implying historical oppression and its relevance for contemporary interracial relations in the form of supporting or opposing Critical Race Theory (CRT) teaching in the US public school system. I examine debates and discussions on CRT televised in the American news media using discursive psychological approaches. Findings show that race categories are used to, first, negotiate rights and entitlements to discuss and support or oppose CRT in schools. Second, race categories are used to justify opposition to CRT. In both case, race categories are used to implicate historical racial oppression and its current salience. Race categories are treated to implicate normative claims to knowledge, experience, and entitlements proceeding from historical racial oppression in the US. These findings are discussed in relation to work in discursive psychology on race and racism and CRT itself.
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+Keywords: Critical race theory, race categories, racial oppression, membership categorization analysis, discursive psychology.
