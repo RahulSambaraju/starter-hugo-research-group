@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-       Sambarjau's
+       Sambaraju's
         Research Space
       image:
         filename: welcome.jpg
