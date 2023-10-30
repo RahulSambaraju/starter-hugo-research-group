@@ -7,25 +7,19 @@ authors:
   - 吳恩達
 title: "Rahul Sambaraju "
 role: Assistant Professor, Social Psychology
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+bio: My research interests include social psychology, social exclusion,
+  discursive approaches, race and racism, South Asia
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:test@example.org
+    link: "mailto: leo.sambaraju@gmail.com / r.sambaraju@ed.ac.uk"
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/rahulvoy
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -44,7 +38,3 @@ user_groups:
 last_name: Wu
 first_name: Alice
 ---
-
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
