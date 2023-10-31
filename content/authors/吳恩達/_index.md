@@ -3,7 +3,7 @@ organizations:
   - name: University of Edinburgh, UK
 superuser: false
 authors:
-  - 吳恩達
+  - RS
 title: "Rahul Sambaraju "
 role: Assistant Professor, Social Psychology
 bio: My research interests include social psychology, social exclusion,
@@ -33,7 +33,8 @@ education:
 email: ""
 user_groups:
   - Researchers
-  - Visitors
-last_name: Wu
-first_name: Alice
+  - 
+  - Collaborators
+last_name: Roy
+first_name: Suryapratim
 ---
