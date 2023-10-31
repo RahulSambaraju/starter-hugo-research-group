@@ -12,4 +12,5 @@ design:
     color: "#f4adad"
     gradient_start: "#e6d2d2"
     gradient_end: "#f08080"
+    image: img20230622163637.jpg
 ---
