@@ -8,8 +8,7 @@ url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 publication_types:
   - "1"
 authors:
-  - admin
-  - ""
+  - Sambaraju
 publication: 27th European Conference for South Asian Studies, University of Turin, Italy.
 featured: true
 projects:
@@ -78,12 +77,12 @@ url_video: "#"
 doi: ""
 tags:
   - Source Themes
-date: 2013-07-01T00:00:00Z
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
 links:
   - name: Custom Link
     url: http://example.org
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: "#"
 url_code: "#"
 ---
