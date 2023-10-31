@@ -1,72 +1,51 @@
 ---
-title: 'An example journal article'
+title: Membership categorization analysis, race, and racism
+subtitle: "Race categories, "
+publication_types:
+  - "2"
 authors:
   - admin
-  - Robert Ford
+  - ShrikantNatasha
+publication_short: ""
+abstract: "Membership Categorization Analysis (MCA) has the potential to
+  highlight the dynamic ways that people make race relevant to everyday life.
+  However, existing MCA research conducts ana-lyses that are disconnected from
+  the broader sociopolitical contexts within which race categories are developed
+  and used. This article proposes an extension MCA that foregrounds ways that
+  racial category use mobilizes racial inferences and is consequential for the
+  constitution of knowledge about race and racism. Scholars conducting an MCA of
+  race categories should (a) engage with social science research on race and
+  racism (b) meet unique adequacy requirements for research. We apply these
+  extensions to three key tenets of MCA: knowledge, the membership
+  categorization device, and morality. We then pre-sent two illustrative
+  analyses: from Asian Americans discussing business in the United States and
+  from Indians discussing anti- Black racism in India. We close by discussing
+  the implications of our framework for MCA and qualitative psychological
+  research."
+draft: true
+featured: false
+projects: []
+slides: null
+url_pdf: http://arxiv.org/pdf/1512.04133v1
+summary: ""
+url_dataset: ""
+url_project: ""
+url_source: ""
+url_video: ""
 author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
-date: '2015-09-01T00:00:00Z'
-doi: ''
-
-# Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
-
-# Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
-publication_types: ['2']
-
-# Publication name and optional abbreviated publication name.
-publication: '*Journal of Source Themes, 1*(1)'
-publication_short: ''
-
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-
+  - Equal contribution
+  - Equal contribution
+doi: https://doi.org/10.1080/14780887.2023.2245348
+publication: Qualitative Research in Psychology
 tags:
   - Source Themes
-featured: false
-
-# links:
-# - name: ""
-#   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
-  focal_point: ''
+  caption: ""
+  focal_point: ""
   preview_only: false
-
-# Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
-#   Otherwise, set `projects: []`.
-projects: []
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-slides:
+date: 2015-09-01T00:00:00Z
+url_slides: ""
+publishDate: 2017-01-01T00:00:00Z
+url_poster: ""
+url_code: ""
 ---
-
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code and math](https://wowchemy.com/docs/content/writing-markdown-latex/).
