@@ -20,7 +20,7 @@ abstract: "Membership Categorization Analysis (MCA) has the potential to
   from Indians discussing anti- Black racism in India. We close by discussing
   the implications of our framework for MCA and qualitative psychological
   research."
-draft: true
+draft: false
 featured: false
 image:
   filename: featured
