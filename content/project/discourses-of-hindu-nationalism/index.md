@@ -1,5 +1,5 @@
 ---
-title: Discourses of HIndu Nationalism
+title: Discourses of Hindu Nationalism
 subtitle: Territory, citizenship, and secularism
 date: 2023-10-31T15:48:33.627Z
 draft: false
