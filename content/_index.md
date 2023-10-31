@@ -11,7 +11,7 @@ sections:
        Sambaraju's
         Research Space
       image:
-        filename: welcome.jpg
+        filename: assets/media/img20230622163637.jpg
       text: |
         <br>
         The research space is at the forefront of studying social exclusion through discursive approaches.  
