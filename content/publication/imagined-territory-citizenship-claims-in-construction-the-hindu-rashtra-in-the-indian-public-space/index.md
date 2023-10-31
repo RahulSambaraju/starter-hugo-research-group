@@ -27,7 +27,7 @@ abstract: "How do constructions of social polity inform constructions of nation?
   Indian territory over Muslim others. We then argue that constructions of
   citizenship can contribute to exclusion of other through offering alternative
   versions of nations themselves."
-draft: true
+draft: false
 featured: false
 image:
   filename: featured
