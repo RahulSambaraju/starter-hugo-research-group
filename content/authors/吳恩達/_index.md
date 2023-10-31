@@ -1,7 +1,7 @@
 ---
 organizations:
   - name: University of Edinburgh, UK
-superuser: false
+superuser: true
 authors:
   - RS
 title: "Rahul Sambaraju "
