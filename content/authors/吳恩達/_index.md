@@ -1,7 +1,6 @@
 ---
 organizations:
-  - name: Stanford University
-    url: ""
+  - name: University of Edinburgh, UK
 superuser: false
 authors:
   - 吳恩達
@@ -22,15 +21,15 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: PhD in Social Psychology
+      institution: Queen Margaret University
+      year: 2011
+    - course: MSc in Psychological Research Methods
+      institution: The University of Edinburgh
       year: 2008
+    - course: Bachelor in Medicine, Bachelor in Surgery
+      institution: Kakatiya Medical College, Dr NTR University of Health Sciences, India
+      year: 2004
 email: ""
 user_groups:
   - Researchers
