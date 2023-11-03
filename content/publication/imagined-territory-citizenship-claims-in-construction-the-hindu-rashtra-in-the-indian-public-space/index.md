@@ -3,10 +3,9 @@ title: "Imagined territory: citizenship claims in construction the Hindu Rashtra
   in the Indian public space"
 subtitle: Discursive legitimation of Hindu Rashtra
 publication_types:
-  - "0"
   - "2"
 authors:
-  - SambarajuRahul;RoySuryapratim
+  - Sambaraju Rahul & Roy Suryapratim
 publication: British Journal of Social Psychology
 abstract: "How do constructions of social polity inform constructions of nation?
   In this paper, we examine constructions of citizenship in India to examine how
