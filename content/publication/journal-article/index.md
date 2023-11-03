@@ -4,8 +4,9 @@ subtitle: "Race categories, "
 publication_types:
   - "2"
 authors:
-  - admin
-  - ShrikantNatasha
+  - Shrikant
+  - Natasha & Sambaraju
+  - Rahul
 publication_short: ""
 abstract: "Membership Categorization Analysis (MCA) has the potential to
   highlight the dynamic ways that people make race relevant to everyday life.
@@ -43,7 +44,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2015-09-01T00:00:00.000Z
+date: 2023-11-03T14:06:11.189Z
 url_slides: ""
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
