@@ -1,6 +1,6 @@
 ---
 title: "Studying caste-based discrimination in an Indian University: identities,
-  affiliation and difference in the making of a social-scientific study."
+  affiliation and difference in the making of a social-scientific study"
 subtitle: Research caste in social science
 abstract: ""
 slides: null
@@ -9,6 +9,7 @@ publication_types:
   - "1"
 authors:
   - Sambaraju
+  - Rahul
 publication: 27th European Conference for South Asian Studies, University of Turin, Italy.
 featured: true
 projects:
@@ -77,7 +78,7 @@ url_video: "#"
 doi: ""
 tags:
   - Source Themes
-date: 2013-07-01T00:00:00.000Z
+date: 2023-07-01T00:00:00.000Z
 url_slides: ""
 links:
   - name: Custom Link
