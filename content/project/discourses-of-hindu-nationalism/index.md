@@ -11,9 +11,7 @@ image:
 ---
 A﻿long with [Prof Suryapratim Roy ](https://www.tcd.ie/research/profiles/?profile=suroy)at Trinity College Dublin, I am developing a research program on the discursive construction of Hindu Rashtra in South Asia. We are developing an understanding of the construction and legitimation of Hindu Rasthra through a concerted focus on constructions of territory, citizenship, and secularism.
 
-W﻿e've examined the constructions of [imagined territory](https://osf.io/preprints/psyarxiv/vc76w/)
-
-
+W﻿e've examined the constructions of
 
 
 
