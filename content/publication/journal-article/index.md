@@ -1,12 +1,12 @@
 ---
 title: Membership categorization analysis, race, and racism
-subtitle: "Race categories, "
+subtitle: ""
 publication_types:
   - "2"
 authors:
   - Shrikant
-  - Natasha & Sambaraju
-  - Rahul
+  - N & Sambaraju
+  - R
 publication_short: ""
 abstract: "Membership Categorization Analysis (MCA) has the potential to
   highlight the dynamic ways that people make race relevant to everyday life.
@@ -33,9 +33,7 @@ url_dataset: ""
 url_project: ""
 url_source: ""
 url_video: ""
-author_notes:
-  - Equal contribution
-  - Equal contribution
+author_notes: []
 doi: https://doi.org/10.1080/14780887.2023.2245348
 publication: Qualitative Research in Psychology
 tags:
