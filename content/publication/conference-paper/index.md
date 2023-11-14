@@ -1,7 +1,7 @@
 ---
 title: "Studying caste-based discrimination in an Indian University: identities,
   affiliation and difference in the making of a social-scientific study"
-subtitle: Research caste in social science
+subtitle: Researching caste in social science
 abstract: ""
 slides: null
 url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
