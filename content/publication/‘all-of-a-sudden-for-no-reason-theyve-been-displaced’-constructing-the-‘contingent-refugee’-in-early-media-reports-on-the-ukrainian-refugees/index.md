@@ -5,8 +5,8 @@ publication_types:
   - "2"
 authors:
   - Sambaraju
-  - R;Shrikant
-  - N
+  - R & Shrikant
+  - N.
 doi: https://bpspsychub.onlinelibrary.wiley.com/doi/full/10.1111/bjso.12652
 abstract: "This paper analyzes descriptions of Ukrainian refugees in the
   aftermath of the Russian invasion of Ukraine. Findings of previous research on
