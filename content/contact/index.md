@@ -10,7 +10,7 @@ sections:
       title: Contact
       text: |-
         Send me questions, comments, and inquirees. I'd love to hear what you have to say (be nice!) and share papers, ideas, and thoughts!
-      email: leo.sambarjau@gmail.com
+      email: leo.sambaraju@gmail.com
       phone: 00441316504521
       address:
         street: George Square
