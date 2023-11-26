@@ -16,11 +16,9 @@ sections:
     content:
       # The user's folder name in `content/authors/`
       username: admin
-      # Show a call-to-action button under your biography? (optional)
-      # To link to a file, upload it to your `static/uploads/` folder
       button:
         text: Download Résumé
-        url: static/resume.pdf
+        url: uploads/resume.pdf
     design:
       banner:
         # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
