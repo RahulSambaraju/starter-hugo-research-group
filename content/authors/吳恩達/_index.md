@@ -20,18 +20,21 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Rahul-Sambaraju
 education:
   courses:
     - course: PhD in Social Psychology
       institution: Queen Margaret University
-      year: 2011
+      year: 2014
     - course: MSc in Psychological Research Methods
       institution: The University of Edinburgh
       year: 2008
     - course: Bachelor in Medicine, Bachelor in Surgery
       institution: Kakatiya Medical College, Dr NTR University of Health Sciences, India
-      year: 2004
-email: ""
+      year: 2007
+email: "r.sambaraju@ed.ac.uk"
 user_groups:
   - Researchers
   - null
