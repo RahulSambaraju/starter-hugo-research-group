@@ -15,7 +15,7 @@ sections:
   - block: biography
     content:
       # The user's folder name in `content/authors/`
-      username: RS
+      username: 吳恩達
       button:
         text: Download Résumé
         url: uploads/resume.pdf
