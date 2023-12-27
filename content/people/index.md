@@ -25,7 +25,7 @@ sections:
         filename: ''
       biography:
         # Customize the CSS style of your biography text (optional)
-        style: ''
+      style: ''
           - Researchers
           - Grad Students
           - Administration
