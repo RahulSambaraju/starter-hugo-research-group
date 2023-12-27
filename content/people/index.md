@@ -26,11 +26,6 @@ sections:
       biography:
         # Customize the CSS style of your biography text (optional)
       style: ''
-          - Researchers
-          - Grad Students
-          - Administration
-          - Visitors
-          - Alumni
       sort_by: Params.last_name
       sort_ascending: true
     design:
