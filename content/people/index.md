@@ -19,7 +19,7 @@ sections:
       button:
         text: Download Résumé
         url: uploads/resume.pdf
-   - design:
+    design:
       banner:
         # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
         filename: ''
@@ -33,7 +33,7 @@ sections:
           - Alumni
       sort_by: Params.last_name
       sort_ascending: true
-   - design:
+    design:
       show_interests: false
       show_role: true
       show_social: true
