@@ -4,9 +4,8 @@ subtitle: ""
 publication_types:
   - "2"
 authors:
-  - Shrikant
-  - N & Sambaraju
-  - R
+  - Shrikant N
+  - Sambaraju R
 publication_short: ""
 abstract: "Membership Categorization Analysis (MCA) has the potential to
   highlight the dynamic ways that people make race relevant to everyday life.
