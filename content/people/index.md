@@ -10,9 +10,7 @@ sections:
       title: Meet the Team
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-      user_groups:
-          - Principal Investigators
----
+
 organizations:
   - name: University of Edinburgh, UK
 superuser: true
@@ -53,10 +51,12 @@ user_groups:
   - Researchers
   - null
   - Collaborators
-last_name: Roy
-first_name: Suryapratim
 ---
 M﻿y current research practice is to examine how we categorize ourselves and others (humans and non-human entities) to make sense of exclusion and marginalization.
+      user_groups:
+          - Principal Investigators
+---
+
 
     content: 
       # The user's folder name in `content/authors/`
