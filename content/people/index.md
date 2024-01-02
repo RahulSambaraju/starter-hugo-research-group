@@ -21,7 +21,7 @@ sections:
        text: Download Résumé
        url: uploads/resume.pdf
     
-  - design:
+    design:
       banner:
         # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
         filename: ''
