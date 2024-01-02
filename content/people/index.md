@@ -17,8 +17,9 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       # To link to a file, upload it to your `static/uploads/` folder
       button:
-        text: Download Résumé
-        url: [uploads/resume.pdf](https://github.com/RahulSambaraju/starter-hugo-research-group/blob/main/static/uploads/CV%20Rahul%20Sambaraju%20Oct%202023.pdf)
+       text: Download Résumé
+        url: uploads/resume.pdf
+    
     design:
       banner:
         # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
