@@ -14,7 +14,7 @@ sections:
 
   - content: 
       # The user's folder name in `content/authors/`
-      username: content/authors/吳恩達
+      username: 吳恩達
       # Show a call-to-action button under your biography? (optional)
       # To link to a file, upload it to your `static/uploads/` folder
       button: ''
