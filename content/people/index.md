@@ -6,7 +6,7 @@ type: landing
 sections:
   - block: people
    
-  - content: 
+    content: 
       # The user's folder name in `content/authors/`
       username: 吳恩達
       # Show a call-to-action button under your biography? (optional)
