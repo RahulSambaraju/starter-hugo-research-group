@@ -6,7 +6,14 @@ type: landing
 sections:
   - block: people
     content:
-      title: Meet the Team
+     # The user's folder name in `content/authors/`
+      username: 吳恩達
+      # Show a call-to-action button under your biography? (optional)
+      # To link to a file, upload it to your `static/uploads/` folder
+      button: 
+       text: Download Résumé
+       url: uploads/resume.pdf
+     title: Meet the Team
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
