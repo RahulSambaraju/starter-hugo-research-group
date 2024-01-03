@@ -1,6 +1,5 @@
 ---
-organizations:
-  - name: University of Edinburgh, UK
+
 superuser: true
 authors:
   - RS
@@ -8,6 +7,8 @@ title: "Rahul Sambaraju "
 role: Assistant Professor, Social Psychology
 bio: My research interests include social psychology, social exclusion,
   discursive approaches, race and racism, South Asia
+organizations:
+  - name: University of Edinburgh, UK
 interests: []
 
 social:
