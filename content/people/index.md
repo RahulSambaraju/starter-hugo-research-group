@@ -8,14 +8,7 @@ sections:
    
     content: 
       title: Meet the Team
-      # The user's folder name in `content/authors/`
-      username: content/authors/RS
-      # Show a call-to-action button under your biography? (optional)
-      # To link to a file, upload it to your `static/uploads/` folder
-      button: 
-       text: Download Résumé
-       url: uploads/resume.pdf
-
+      
   - block: biography
     content: Dr Rahul Sambaraju
       # The user's folder name in `content/authors/`
