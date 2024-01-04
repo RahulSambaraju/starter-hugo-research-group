@@ -3,20 +3,17 @@ title: People
 date: 2022-10-24
 type: landing
 sections:
-  - block: people
-    content: Dr Rahul Sambaraju
-    username: 吳恩達
-    button:
-      text: Download Résumé
-      url: uploads/resume.pdf
+  - block: About me
+    content: 
+      username: 吳恩達
+      button:
+        text: Download Résumé
+        url: uploads/resume.pdf
     design:
       banner:
         filename: ""
       biography:
         style: ""
-
----
-null
 
 ---
 design:
@@ -31,4 +28,3 @@ design:
   show_social: true
 
 ---
-null
