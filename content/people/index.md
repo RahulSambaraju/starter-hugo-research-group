@@ -4,8 +4,7 @@ date: 2022-10-24
 type: landing
 sections:
   - block: people
-   
-    content: 
+       content: 
       title: Meet the Team
       # The user's folder name in `content/authors/`
       username: 吳恩達
@@ -16,7 +15,7 @@ sections:
        url: uploads/resume.pdf
     
           
-    design:
+  - design:
       banner:
         # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
         filename: ''
