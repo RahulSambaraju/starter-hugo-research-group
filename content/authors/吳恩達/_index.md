@@ -9,7 +9,6 @@ role: Assistant Professor, Social Psychology
 bio: My research interests include social psychology, social exclusion,
   discursive approaches, race and racism, South Asia
 interests: []
-
 social:
   - icon: envelope
     icon_pack: fas
@@ -34,11 +33,9 @@ education:
     - course: Bachelor in Medicine, Bachelor in Surgery
       institution: Kakatiya Medical College, Dr NTR University of Health Sciences, India
       year: 2007
-email: "r.sambaraju@ed.ac.uk"
+email: r.sambaraju@ed.ac.uk
 user_groups:
   - Researchers
-  - null
-  - Collaborators
 last_name: Roy
 first_name: Suryapratim
 ---
