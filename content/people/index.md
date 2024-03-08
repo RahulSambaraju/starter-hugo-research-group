@@ -4,7 +4,7 @@ date: 2022-10-24
 type: landing
 sections:
  - block: people
-      content: 
+content: 
       title: Meet the Team
       # The user's folder name in `content/authors/`
       username: RS
