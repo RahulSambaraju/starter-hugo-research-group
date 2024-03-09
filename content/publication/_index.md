@@ -1,5 +1,6 @@
 ---
 title: Publications
+
 link: "https://www.researchgate.net/profile/Rahul-Sambaraju"
 
 # Listing view
