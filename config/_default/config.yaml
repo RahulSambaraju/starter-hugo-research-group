@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Sambaraju's Research Space # Website name
+title: DESI Research Space # Website name
 baseURL: 'https://example.com/' # Website URL
 
 ############################
