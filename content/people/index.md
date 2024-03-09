@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: people
     content: 
-      title: Meet the Team
+      title: collaborators
       # The user's folder name in `content/authors/`
       username: RS
       # Show a call-to-action button under your biography? (optional)
