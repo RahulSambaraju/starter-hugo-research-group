@@ -9,7 +9,7 @@ sections:
     content:
       title: |
        DESI Research Space - 
-    Discursive Examination & Social Inclusion
+       Discursive Examination & Social Inclusion
       image:
         filename: welcome.jpg
       text: |
