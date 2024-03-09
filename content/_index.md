@@ -8,13 +8,12 @@ sections:
   - block: hero
     content:
       title: |
-       Sambaraju's
-        Research Space
+       Discursive Examination & Social Inclusion (DESI) Research Space
       image:
         filename: welcome.jpg
       text: |
         <br>
-        This research space is at the forefront of studying social exclusion through discursive approaches.  
+        This research space is at the forefront of studying social exclusion/inclusion through discursive approaches.  
   
   - block: collection
     content:
