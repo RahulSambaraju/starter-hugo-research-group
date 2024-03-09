@@ -14,7 +14,7 @@ sections:
         filename: welcome.jpg
       text: |
         <br>
-        The research space is at the forefront of studying social exclusion through discursive approaches.  
+        This research space is at the forefront of studying social exclusion through discursive approaches.  
   
   - block: collection
     content:
