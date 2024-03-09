@@ -8,7 +8,8 @@ sections:
   - block: hero
     content:
       title: |
-       Discursive Examination & Social Inclusion (DESI) Research Space
+       DESI Research Space - 
+    Discursive Examination & Social Inclusion
       image:
         filename: welcome.jpg
       text: |
