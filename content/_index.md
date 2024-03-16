@@ -10,7 +10,7 @@ sections:
       title: |
        Discursive Examination & Social Inclusion (DESI)
       image:
-        filename: welcome.jpg
+        filename: [welcome.jpg](https://github.com/RahulSambaraju/starter-hugo-research-group/blob/main/content/welcome.jpg)
           
       text: |
         <br>
