@@ -4,7 +4,7 @@ date: 2023-10-30T18:08:11.902Z
 draft: false
 featured: false
 image:
-  filename: featured
+  filename: https://doi.org/10.1111/josi.12607
   focal_point: Smart
   preview_only: false
 ---
