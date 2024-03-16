@@ -71,6 +71,7 @@ private: true
 outputs:
   - decap_cms_config
   - HTML
+# good
 ---
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
