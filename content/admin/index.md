@@ -63,7 +63,7 @@ social:
 email: 'leo.sambaraju@gmail.com'
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 # Generate the /admin/ page
 type: decap_cms
