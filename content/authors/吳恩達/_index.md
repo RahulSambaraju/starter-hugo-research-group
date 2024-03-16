@@ -1,11 +1,12 @@
 ---
+title: "Rahul Sambaraju "
+role: Assistant Professor, Social Psychology
+avatar_filename: avatar (2).jpg
 organizations:
   - name: University of Edinburgh, UK
 superuser: true
 authors:
   - 吳恩達
-title: "Rahul Sambaraju "
-role: Assistant Professor, Social Psychology
 bio: My research interests include social psychology, social exclusion,
   discursive approaches, race and racism, South Asia
 interests: []
@@ -33,7 +34,7 @@ education:
     - course: Bachelor in Medicine, Bachelor in Surgery
       institution: Kakatiya Medical College, Dr NTR University of Health Sciences, India
       year: 2007
-email: r.sambaraju@ed.ac.uk
+email: leo.sambaraju@gmail.com
 user_groups:
   - Researchers
 last_name: Roy
