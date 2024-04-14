@@ -10,7 +10,7 @@ sections:
       title: |
        Discursive Examination & Social Inclusion (DESI)
       image:
-        filename: Front_webpage.jpg
+        filename: welcome.jpg
           
       text: |
         <br>
